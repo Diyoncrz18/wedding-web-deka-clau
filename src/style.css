@@ -310,6 +310,7 @@ footer {
   background: linear-gradient(180deg, var(--primary-gold) 0%, #473307 100%);
   border: none !important;
   transition: opacity 0.3s ease-in-out; /* Added transition */
+  max-width: 200px;
 }
 
 .btn-primary:hover {
